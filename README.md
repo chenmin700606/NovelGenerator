@@ -12,7 +12,6 @@ From idea to manuscript. Without human intervention.
 NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce complete fiction. The entire generation process runs autonomously while maintaining narrative coherence. An end-to-end novel creation system employs entity relationship modeling for character development while generating structured content at scene-level granularity within a persistent state management framework for world consistency. 
 <br>
 <br>
-The pipeline incorporates algorithmic tension control to manage narrative pacing alongside automated semantic validation to identify inconsistencies, culminating in multi-pass quality assurance that ensures overall narrative coherence and artistic integrity.
 
 ![Screenshot 2025-05-28 at 07 59 30](https://github.com/user-attachments/assets/854e630c-e902-410a-b789-9706189e3abc)
 
