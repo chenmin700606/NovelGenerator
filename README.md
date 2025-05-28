@@ -33,6 +33,15 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 
 >Ean Protocol. The body of an MI6 intelligence agent believed to have died eight years ago in Syria has been found in Budapest. But forensic experts say the death occurred just three days ago. The case is assigned to Europol analyst Ingrid Steiner, a specialist in “dead” operatives who unexpectedly return to the game. In the course of the investigation, Ingrid encounters shadowy structures in the intelligence services, double agents and a strange series of terrorist attacks disguised as domestic accidents in major European cities. Soon she realizes: someone is launching a dormant Cold War project - and dead agents don't seem to be the only ones being brought back to life.
 
+<details>
+<summary>Ean Protocol</summary>
+
+# The Unexpected Summons
+
+The sterile hum of servers was the background music to Ingrid Steiner’s life. In her corner office at Europol Headquarters in The Hague, bathed in the cool, impartial glow of multiple monitor screens, she was a cartographer of lost souls. Not literally, of course. Her territory was the intricate, often deliberately obfuscated, world of intelligence operatives who had vanished, gone dark, or were officially deceased, only to sometimes, inexplicably, resurface. Cold cases, mostly. Ghosts in the machine, or more accurately, ghosts *from* the machine – the vast, labyrinthine databases of international espionage.
+
+</details>
+
 ## 🛠️ Tech Stack
 
 *   **Frontend:** React, TypeScript, Tailwind CSS
