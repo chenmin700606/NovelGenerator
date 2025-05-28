@@ -1455,20 +1455,20 @@ Ingrid turned back to her screens, but her gaze wasn't just on the historical ar
 
 </details>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 *   **Frontend:** React, TypeScript, Tailwind CSS
 *   **AI Integration:** Google Gemini API
 *   **Build Tool:** Vite
 *   **Package Manager:** npm
 
-## 📋 Prerequisites
+### 📋 Prerequisites
 
 *   Node.js (v18 or higher recommended)
 *   npm (comes with Node.js)
 *   A Google Gemini API Key
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 1.  **Clone the repository:**
     ```bash
@@ -1494,13 +1494,13 @@ Ingrid turned back to her screens, but her gaze wasn't just on the historical ar
     ```
     The application should now be running on `http://localhost:5173` (or another port if 5173 is in use).
 
-## ⚙️ Available Scripts
+### ⚙️ Available Scripts
 
 *   `npm run dev`: Starts the development server.
 *   `npm run build`: Builds the application for production.
 *   `npm run preview`: Locally previews the production build.
 
-## 💡 How it Works
+### 💡 How it Works
 
 1.  Enter your story idea in teaser format (see example in the app) and the desired number of chapters.
 2.  Our AI will generate a detailed story outline and chapter-by-chapter plan.
@@ -1508,7 +1508,7 @@ Ingrid turned back to her screens, but her gaze wasn't just on the historical ar
 4.  Finally, your complete book draft will be presented!
 5.  Before publication, we recommend a final manual edit to eliminate possible inconsistencies and remove possible technical markup. Re-generation with the same input may give a better result. Save both versions for comparison.
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or want to improve the project, please feel free to:
 
