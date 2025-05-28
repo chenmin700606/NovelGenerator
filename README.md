@@ -16,7 +16,7 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 ![Screenshot 2025-05-28 at 07 59 30](https://github.com/user-attachments/assets/854e630c-e902-410a-b789-9706189e3abc)
 
 
-## ✨ Features
+### ✨ Features
 
 *   **Interactive Story Input:** Provide your story premise and desired number of chapters.
 *   **AI-Powered Generation:** Leverages the Gemini API for:
@@ -1027,8 +1027,6 @@ The chilling silence after Nightingale's call left Ingrid with a name, heavy and
 
 ***
 
-**Scene 1**
-
 The Europol Data Analysis Center wasn't a single, grand room but a network of secure, climate-controlled chambers filled with the low hum of servers and the quiet clicks of keyboards. Ingrid Steiner sat at a large, multi-monitor workstation in a small, sterile room, the polished steel and muted grey surfaces reflecting the clinical nature of the data she was processing. On one screen, Dr. Anya Sharma's complex diagrams pulsed – neural network schematics overlaid with markers for the synthesized organic compounds, timelines correlating chemical introduction with behavioral shifts, theories on subliminal command structures. On another, scanned images of dusty, redacted Cold War-era documents flickered – official-looking headers, handwritten annotations, cross-references to 'Project Phoenix' or simply 'The Bird,' names blacked out but occasionally, tellingly, incomplete redactions leaving tantalizing fragments.
 
 Hours had passed since the van attack in Berlin, hours spent sifting through the chilling implications of being a target and the terrifying mechanism that had almost killed her. Now, with Anya's scientific validation and Nightingale's historical anchor point, the abstract threat coalesced around a single name.
@@ -1061,8 +1059,6 @@ As the background processes churned, spitting out fragmented data points that th
 
 ***
 
-**Scene 2**
-
 Director Moreau's face, projected onto the secure video screen in Ingrid's workspace, was etched with a grim blend of concern and weary resignation. The casual skepticism from the initial briefing was long gone, replaced by the heavy weight of undeniable evidence and escalating political pressure.
 
 "Steiner," Moreau said, his voice low and carefully modulated, "the BKA forensic report from Berlin corroborates Sharma's findings completely. The signature matches Vienna. And the report from the van incident... the traces on the vehicle are conclusive. This was a deliberate attempt on your life, using the same methodology as the attacks." He paused, letting the gravity sink in. "You were right. This isn't structural failure or gas leaks. This is calculated, and it's deadly."
@@ -1092,8 +1088,6 @@ Moreau sighed, leaning back in his chair. "The pressure, Steiner, is immense. Na
 The screen went blank, leaving Ingrid with the weight of the director's words and the chilling image of the red dots on the map. The hunt for the architect had begun in earnest, and the target of his chilling ambition was coming into focus.
 
 ***
-
-**Scene 3**
 
 Ingrid sat alone at the workstation, the glow of the monitors illuminating the determined set of her jaw. The secure room felt less like a workspace and more like a command center now, albeit a solitary one. She had printed out large-scale maps of Europe, pinning them to a corkboard beside the monitors. Red pins marked Vienna and Berlin. She added a few smaller, yellow pins marking other incidents that had caught her eye in the Europol reports – suspicious industrial accidents, sudden structural failures in non-descript buildings, strange power grid fluctuations that had initially been dismissed as technical glitches. They didn't all have the exact Phoenix signature yet, but they shared an unusual precision and timing.
 
@@ -1385,8 +1379,6 @@ Breaking into the cold night air was not an arrival at safety, but a transition 
 
 Breaking into the cold night air, the scream of sirens became a physical presence, lights strobing across the dust-choked exit point. They stood panting, exhausted and raw, amidst the settling debris of the Sanctuary, watching the first official vehicles arrive – a swarm of flashing blue and red promising order, but also complications. Director Moreau's silhouette was visible among the figures emerging from the lead car, his arrival marking the transition from their rogue operation to the cold, hard reality of the aftermath. The core of Volkov's design lay in ruins, the Phoenix's Heart silent, but the man himself was gone, leaving behind not just wreckage, but the unsettling horizon of a threat still very much alive.
 
-**Scene 1: The Compromised Sanctuary**
-
 The air tasted of ozone and dust, thick with the recent violence and the sudden silence that had fallen after the chaotic alarms. Ingrid leaned against the rough concrete wall of the service tunnel exit, her legs trembling, lungs burning. Beside her, Kovács, equally battered and weary, slumped against the opposite side, his gaze fixed on the approaching lights. They were safe, the Chronos countdown stopped, Volkov gone. But the price of that success felt heavy, settling in the stillness around them like the fine grey ash on their clothes.
 
 Uniformed figures, a mix of local police, likely military special forces, and Europol quick-response personnel, fanned out with efficient precision, securing the perimeter they had just breached. Ingrid watched them, a strange detachment washing over her. For hours, this place had been a terrifying secret, Volkov’s private domain of resurrected ghosts. Now, it was just a crime scene, albeit one unlike any other.
@@ -1444,8 +1436,6 @@ The Agency Representative nodded, understanding. "The official line will be… m
 "At large," Moreau confirmed, his expression grim. "A dangerous fugitive. We have active warrants, but he disappeared without a trace from the facility. He's likely gone deep underground. He designed the Labyrinth; he knows how to hide in it."
 
 The debriefing wound down, a sterile exchange of facts filtered through the lens of political necessity. Ingrid and Kovács were cleared, officially commended for preventing Chronos but cautioned about procedure. The Phoenix was exposed, its immediate threat averted, but its Architect, and the chilling possibility of its evolution, remained.
-
-**Scene 3: The Horizon Ahead**
 
 Back in her sterile office at Europol Headquarters in The Hague, the familiar data streams scrolling across her screens felt distant, almost alien. The past few weeks had been a seismic shift, ripping her from the controlled world of historical analysis into the raw, brutal reality of active operations. The physical aches were fading, replaced by a persistent exhaustion and the phantom weight of the data drives she and Kovács had carried out.
 
