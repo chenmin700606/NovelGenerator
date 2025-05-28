@@ -661,8 +661,6 @@ The call ended abruptly. Ingrid stared at the blank screen. Denied. Ordered to s
 
 The path forward, it seemed, wouldn't be through official channels.
 
-**Scene 3: Ingrid's Secure Laptop/Device**
-
 Hours later, the frustration still simmered beneath Ingrid's composed surface. She was back on her laptop, ostensibly reviewing mundane police reports Kovács had provided about other minor incidents in Budapest, but her mind was reeling from Moreau's call. Denied. Watched. The institutional labyrinth had just sprouted barbed wire fences.
 
 She had pushed the boundaries of her legitimate access as far as they would go. The deeper layers of the archive remained locked, tantalizingly out of reach. How else could she learn about Phoenix? Unofficial channels? Who would know about something this deep, this sensitive, from decades ago? Lázló was useful for the present-day underworld, but a Cold War ghost program? Unlikely.
@@ -1140,8 +1138,6 @@ But the clock was not slowing, and the Labyrinth wouldn't yield its secrets from
 
 The chilling coordinates, the terrifying destination of Volkov's Labyrinth, finally resolved into a single point on the screen before Ingrid. Hours had vanished in the frantic cross-referencing and leveraging of every limited resource Moreau could spare, every fragment Anya and Kovács could dig up, but the ghost channels had yielded a physical location. It lay shrouded in the forgotten borderlands of the old blocs, a tangible sanctuary for the Architect and his final act. The analysis was complete; the time for the descent into the physical darkness was now.
 
-**Scene 1: Europol Secure Workspace or Discreet Meeting Place**
-
 The small, sterile room Ingrid had commandeered felt suddenly vast, empty. On the monitor, a satellite image showed a sprawling, derelict industrial complex nestled deep within a dense, unnamed forest, miles from the nearest paved road. It looked like a forgotten scar on the landscape, precisely the kind of place old Cold War ghosts might gather. Kovács stood beside her, arms crossed, his expression grim. Dr. Anya Sharma’s face, tired but sharp, filled a secure video window on a secondary screen.
 
 “The isotopic analysis from Thorne, combined with the echo data Anya pulled from the Berlin site’s residual energy signature, and the communication fragments Kovács found in Lázló’s network... they all triangulate here.” Ingrid’s voice was steady, but the tension in her shoulders was palpable. “It’s a former Soviet military installation, decommissioned in the late eighties, officially abandoned. But the power grid traces show intermittent, high-level consumption peaks consistent with localized energy projection equipment, and the chemical signatures match the ‘Activation Trigger’ compound and the residue from the attack on me. This is it. Volkov’s sanctuary.”
@@ -1174,8 +1170,6 @@ The screens went dark, leaving Ingrid and Kovács alone in the quiet room. The c
 
 “It’s not the first time,” he replied, his expression unreadable. “Let’s pack light. And fast.”
 
-**Scene 2: Travel Sequence**
-
 The journey was a blur of anonymous transport and hushed conversations. They left Budapest under the cloak of late afternoon, a nondescript car taking them eastwards. As dusk settled, they switched to a rattling, ancient train that smelled of coal smoke and forgotten lives, burrowing deeper into the old Eastern Bloc countryside. The landscapes outside the window became increasingly bleak – vast, empty fields, silent forests, villages that seemed stuck in time. Every stop felt isolated, every fellow passenger a potential observer.
 
 Ingrid sat by the window, watching the darkness gather. Her analytical mind, usually processing data streams and historical texts, was now calculating logistical risks: border crossings, potential surveillance, the distance to the target. She had changed into practical, dark clothing, leaving her usual tailored professionalism behind. She carried a small bag containing a few essentials, Anya's encrypted comms and sensors, and a heavy weight of responsibility.
@@ -1195,8 +1189,6 @@ Kovács gave a short, mirthless chuckle. “I prefer the first outcome.”
 They discussed the sparse intelligence they had on the area surrounding the complex. Old rumors of forbidden zones, local folklore about strange lights or disappearances. It all added to the oppressive atmosphere of the journey. Their partnership, forged in the sterile labs of Budapest and tested by fire in Berlin, deepened with each passing mile. They were two points of light venturing into profound darkness, relying solely on each other and the faint signals from Anya back in The Hague.
 
 As the train groaned to a halt at a small, unmanned station swallowed by forest well after midnight, they exchanged a look. This was it. The end of the line, figuratively and almost literally. The air was cold, damp, and silent except for the distant sounds of the forest. The nearest sign of civilization was miles away. Volkov’s Labyrinth awaited.
-
-**Scene 3: Exterior Perimeter of Volkov's Sanctuary**
 
 They moved through the pre-dawn darkness, guided by faint moonlight and the minimal illumination from their encrypted devices. The forest surrounding the complex was thick, ancient, the trees looming like silent sentinels. The ground was uneven, littered with fallen branches and hidden roots, forcing them to move slowly, cautiously. Anya’s sensor readings, transmitted via their secure link, showed fluctuating energy signatures ahead, like a low, rhythmic pulse.
 
@@ -1231,8 +1223,6 @@ Ingrid could only nod, a lump forming in her throat. The impossible was real.
 They moved past Thorne’s position slowly, meticulously, holding their breath. He didn’t react, his gaze sweeping along a predetermined path. They were just outside his field of programmed vision.
 
 Finding a service tunnel entrance hidden beneath a tangle of weeds, they slipped underground. The air was stale, heavy with the scent of damp earth and rust. The darkness was absolute, save for the narrow beams of their tactical lights.
-
-**Scene 4: Just inside the Perimeter/Outer Building**
 
 The tunnel led them deeper into the complex’s forgotten infrastructure. It was cold, labyrinthine, a true physical manifestation of the investigative maze they had been navigating. Pipes dripped, unseen creatures rustled in the walls, and the low thrum of distant machinery vibrated through the concrete floor.
 
@@ -1406,7 +1396,6 @@ They were led away, past the flurry of activity. As they passed a secured access
 
 They were placed in the back of a standard, unmarked sedan, driven away from the controlled chaos of the Sanctuary. The distance grew, the sirens faded, replaced by the quiet hum of the engine and the exhaustion settling deep in their bones. Ingrid leaned her head against the cool window, watching the pre-dawn light begin to paint the horizon. The ashes were here, behind them. But the horizon stretched before them, uncertain and potentially dangerous.
 
-**Scene 2: Secure Debriefing**
 
 The secure debriefing room was stark and impersonal, a windowless box designed for interrogation and information extraction. Several days had passed since their escape from the Sanctuary, spent in a different kind of lockdown – comfortable, but confined, under medical evaluation and initial questioning. Now came the formal accounting.
 
