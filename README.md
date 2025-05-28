@@ -28,7 +28,6 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 *   **Real-time Progress:** View the generation process step-by-step, including outlines and chapter plans as they are created.
 *   **Consistency Checks:** The system aims to maintain narrative consistency throughout the generated content.
 *   **Book Preview:** View the final generated book directly in the browser.
-*   **Downloadable Content:** (Future Feature) Option to download the final book in various formats.
 
 ## 🛠️ Tech Stack
 
