@@ -2,6 +2,9 @@
 
 NovelGenerator is a web application that uses the Gemini API to collaboratively write a book based on a user's premise and desired chapter structure. It generates detailed outlines, character profiles, chapter plans, and full chapter content with integrated consistency checks.
 
+![Screenshot 2025-05-28 at 07 59 30](https://github.com/user-attachments/assets/854e630c-e902-410a-b789-9706189e3abc)
+
+
 From idea to manuscript, with a little help from AI!
 
 ## ✨ Features
