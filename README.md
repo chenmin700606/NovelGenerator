@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-NovelGenerator <br><br>
+NovelGenerator v3.0 <br><br>
    LLM-powered tool that expands brief concepts into full-length novels. <br><br>
 From idea to manuscript. Without human intervention.
 
