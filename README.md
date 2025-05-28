@@ -29,7 +29,7 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 *   **Consistency Checks:** The system aims to maintain narrative consistency throughout the generated content.
 *   **Book Preview:** View the final generated book directly in the browser.
 
-<a href="https://github.com/KazKozDev/NovelGenerator/blob/main/novel.epub"><img src="https://github.com/user-attachments/assets/1178b36b-a228-4a55-a942-57a25d120d2a" width="200"></a>
+<a href="https://github.com/KazKozDev/NovelGenerator/blob/main/novel.epub"><img src="https://github.com/user-attachments/assets/1178b36b-a228-4a55-a942-57a25d120d2a" width="300"></a>
 
 ## 🛠️ Tech Stack
 
