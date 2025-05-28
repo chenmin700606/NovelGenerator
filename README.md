@@ -35,7 +35,7 @@ From idea to manuscript, with a little help from AI!
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/KazKozDev/NovelGenerator.git # Or your repository URL
+    git clone https://github.com/KazKozDev/NovelGenerator.git 
     cd NovelGenerator
     ```
 
