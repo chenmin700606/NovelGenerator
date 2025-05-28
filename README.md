@@ -1508,16 +1508,6 @@ Ingrid turned back to her screens, but her gaze wasn't just on the historical ar
 4.  Finally, your complete book draft will be presented!
 5.  Before publication, we recommend a final manual edit to eliminate possible inconsistencies and remove possible technical markup. Re-generation with the same input may give a better result. Save both versions for comparison.
 
-### 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or want to improve the project, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
 ---
 
 If you like this project, please give it a star ⭐
