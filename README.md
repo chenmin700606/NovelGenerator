@@ -97,11 +97,6 @@ Contributions are welcome! If you have suggestions or want to improve the projec
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if you add one).
 
-## 🙏 Acknowledgments
-
-*   Built with the power of the Google Gemini API.
-*   Inspired by creative storytelling and AI collaboration.
-
 ---
 
 Made with ❤️ by [KazKozDev](https://github.com/KazKozDev)
