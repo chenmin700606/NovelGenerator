@@ -30,6 +30,10 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 *   **Book Preview:** View the final generated book directly in the browser.
 
 <a href="https://github.com/KazKozDev/NovelGenerator/blob/main/novel.epub"><img src="https://github.com/user-attachments/assets/1178b36b-a228-4a55-a942-57a25d120d2a" width="300"></a> <a href="https://github.com/KazKozDev/NovelGenerator/blob/main/novel.epub"><img src="https://github.com/user-attachments/assets/e8814904-cbc9-476c-981a-a48d252e153a" width="300"></a>
+
+![coverean](https://github.com/user-attachments/assets/b9012590-59cc-4b79-aff5-fef6daa3079b)
+
+
 ## 🛠️ Tech Stack
 
 *   **Frontend:** React, TypeScript, Tailwind CSS
