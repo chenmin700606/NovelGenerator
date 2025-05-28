@@ -7,7 +7,7 @@ NovelGenerator v3.0 <br><br>
 From idea to manuscript. Without human intervention.
 
 </div>
-<br>
+<br><br>
 NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce complete fiction. The entire generation process runs autonomously while maintaining narrative coherence. An end-to-end novel creation system employs entity relationship modeling for character development while generating structured content at scene-level granularity within a persistent state management framework for world consistency. 
 <br>
 <br>
