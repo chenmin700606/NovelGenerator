@@ -95,7 +95,7 @@ Contributions are welcome! If you have suggestions or want to improve the projec
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if you add one).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
