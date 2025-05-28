@@ -32,7 +32,7 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 ## 🛠️ Tech Stack
 
 *   **Frontend:** React, TypeScript, Tailwind CSS
-*   **AI Integration:** Google Gemini API (`@google/genai`)
+*   **AI Integration:** Google Gemini API
 *   **Build Tool:** Vite
 *   **Package Manager:** npm
 
