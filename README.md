@@ -35,14 +35,6 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 <details>
 <summary>Scarlet Priestess. In the shadow-veiled streets of Asshai, young Melisandre trains under the enigmatic priestess Kinvara, learning to read flames and walk between worlds of light and shadow. The city's ancient masters teach through pain—each lesson carved into flesh, each spell paid in blood. As Melisandre masters the art of glamour and prophecy, she notices her mentor's ruby choker pulsing with unnatural warmth during their darkest rituals. When a rival acolyte steals Kinvara's choker and ages to dust in seconds, Melisandre glimpses her own fate: the price of seeing centuries unfold in flame is to become flame's eternal slave. She accepts her own ruby willingly, feeling its first hungry pull on her life force, knowing that true power demands she feed either the stone or the flames with sacrificial blood. In Asshai's perpetual darkness, she learns the greatest illusion—that servants of light cast the longest shadows.</summary>
 
-Scarlet Priestess
-
-
-In the shadow-veiled streets of Asshai, young Melisandre trains under the enigmatic priestess Kinvara, learning to read flames and walk between worlds of light and shadow. The city's ancient masters teach through pain—each lesson carved into flesh, each spell paid in blood. As Melisandre masters the art of glamour and prophecy, she notices her mentor's ruby choker pulsing with unnatural warmth during their darkest rituals. When a rival acolyte steals Kinvara's choker and ages to dust in seconds, Melisandre glimpses her own fate: the price of seeing centuries unfold in flame is to become flame's eternal slave. She accepts her own ruby willingly, feeling its first hungry pull on her life force, knowing that true power demands she feed either the stone or the flames with sacrificial blood. In Asshai's perpetual darkness, she learns the greatest illusion—that servants of light cast the longest shadows.
-
-
----
-
 # The Shadowed Veil
 
 The ship sliced through waters as slick and black as oil, guided not by sight of stars or sun – for neither dared pierce the shroud – but by ancient charts and the low, guttural chanting of the Asshai’i navigators. Ahead, rising from the turbulent sea like the jagged teeth of a drowned god, was Asshai-by-the-Shadow. Melisandre gripped the rail, her knuckles white against the dark wood, the salty spray stinging her cheeks. The air here was heavy, thick with the scent of ash and something else, something ancient and vaguely metallic, like dried blood.
