@@ -1460,13 +1460,13 @@ Ingrid turned back to her screens, but her gaze wasn't just on the historical ar
 *   **Build Tool:** Vite
 *   **Package Manager:** npm
 
-### 📋 Prerequisites
+### Prerequisites
 
 *   Node.js (v18 or higher recommended)
 *   npm (comes with Node.js)
 *   A Google Gemini API Key
 
-### 🚀 Getting Started
+### Getting Started
 
 1.  **Clone the repository:**
     ```bash
