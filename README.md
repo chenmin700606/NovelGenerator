@@ -1492,7 +1492,7 @@ Ingrid turned back to her screens, but her gaze wasn't just on the historical ar
     ```
     The application should now be running on `http://localhost:5173` (or another port if 5173 is in use).
 
-### ⚙️ Available Scripts
+### Available Scripts
 
 *   `npm run dev`: Starts the development server.
 *   `npm run build`: Builds the application for production.
