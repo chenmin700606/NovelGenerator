@@ -2,13 +2,13 @@
 <img src="https://github.com/user-attachments/assets/c3f3a380-7958-4186-94c1-7e1472ef22b1" alt="logo" width="120">
 </div>
 <div align="center">
-NovelGenerator v3.0 <br><br>
+NovelGenerator<br><br>
    LLM-powered tool that expands brief concepts into full-length novels. <br><br>
 From idea to manuscript. Without human intervention.
 
 </div>
 <br><br>
-NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce complete fiction. The entire generation process runs autonomously while maintaining narrative coherence. 
+NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce complete fiction. The entire generation process runs autonomously while maintaining narrative coherence. Just provide your story premise and desired number of chapters. 
 <br>
 <br>
 
