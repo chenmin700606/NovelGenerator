@@ -17,16 +17,14 @@ NovelGenerator enables writers, storytellers, and LLM enthusiasts to produce com
 
 ### ✨ Features
 
-*   **Interactive Story Input:** Provide your story premise and desired number of chapters.
-*   **AI-Powered Generation:** Leverages the Gemini API for:
-    *   Story Outline Generation
-    *   Character Extraction & Profiling
-    *   World Building (e.g., world name, motifs)
-    *   Detailed Chapter-by-Chapter Planning
-    *   Full Chapter Content Writing
-*   **Real-time Progress:** View the generation process step-by-step, including outlines and chapter plans as they are created.
-*   **Consistency Checks:** The system aims to maintain narrative consistency throughout the generated content.
-*   **Book Preview:** View the final generated book directly in the browser.
+- Story Outline Generation
+- Character Extraction & Profiling
+- World Building 
+- Detailed Chapter-by-Chapter Planning
+- Full Chapter Content Writing
+- Real-time Progress
+- Consistency Checks
+- Book Preview
 
 ### Examples:
 
